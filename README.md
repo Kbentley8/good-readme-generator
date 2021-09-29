@@ -1,1 +1,1 @@
-# good-readme-generator
+# Good-readme-generator
