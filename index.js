@@ -5,7 +5,7 @@ const inquirer = require('inquirer');
 // linking to page where the README is developed 
 const generatePage = require('./utils/generateMarkdown.js');
 
-// array of questions for user
+// array featuring questions for user
 const questions = () => {
     // using inquirer to prompt questions to user 
     return inquirer.prompt([
