@@ -65,7 +65,7 @@ const questions = () => {
     {
         type: 'list',
         name: 'license',
-        message: 'What kind of license should your project have?',
+        message: 'What kind of license does your project need?',
         choices: ['MIT', 'GNU'],
         default: ["MIT"],
         validate: nameInput => {
