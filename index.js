@@ -93,7 +93,7 @@ const questions = () => {
     {
         type: 'input',
         name: 'usage',
-        message: 'How do you use this app?',
+        message: 'How do you utilize this app?',
         validate: nameInput => {
             if (nameInput) {
                 return true;
