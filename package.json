@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Kbentley8/good-readme-generator/issues"
   },
-  "homepage": "https://github.com/Kbentley8/good-readme-generator#readme"
+  "homepage": "https://github.com/Kbentley8/good-readme-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.1.5"
+  }
 }
