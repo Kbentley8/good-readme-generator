@@ -2,7 +2,7 @@
 const fs = require('fs'); 
 const inquirer = require('inquirer'); 
 
-// linking to page where the README is developed 
+//linking to page where README is created
 const generatePage = require('./utils/generateMarkdown.js');
 
 // array of questions for user
