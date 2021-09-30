@@ -23,9 +23,9 @@ const questions = () => {
         } 
     },
     {
-        : 'input',
-        : 'email',
-        : 'What is the name of your email address?',
+        type: 'input',
+        name: 'email',
+        message: 'What is the name of your email address?',
         validate: nameInput => {
             if (nameInput) {
                 return true;
