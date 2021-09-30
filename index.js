@@ -17,7 +17,7 @@ const questions = () => {
             if (nameInput) {
                 return true;
             } else {
-                ('Please enter your GitHub username!');
+                console.log('Please enter your GitHub username!');
                 return false; 
             }
         } 
