@@ -80,7 +80,7 @@ const questions = () => {
     {
         type: 'input',
         name: 'install',
-        message: 'What are the steps required to install your project?',
+        message: 'What are the steps you need to take in order to install your project?',
         validate: nameInput => {
             if (nameInput) {
                 return true;
