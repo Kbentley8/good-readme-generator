@@ -138,11 +138,11 @@ questions()
 .then(answers => {
     return generatePage(answers);
 })
-// using data to display on page 
+// using data to appear on page 
 .then(data => {
     return writeFile(data);
 })
-// catching errors 
+// used to catch errors 
 .catch(err => {
     console.log(err)
 })
