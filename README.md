@@ -5,7 +5,7 @@
   ## Description 
   This project uses javascript, node.js, and inquirer to efficiently generate a professional grade readme.
 
-  [!Link to Demo](https://drive.google.com/file/d/1cpqH26eTFVUUy79PV7ieTkZsBCKlRQRY/view?usp=sharing)
+  [Link to Demo](https://drive.google.com/file/d/1cpqH26eTFVUUy79PV7ieTkZsBCKlRQRY/view?usp=sharing)
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
