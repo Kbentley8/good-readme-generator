@@ -132,7 +132,7 @@ const writeFile = data => {
 }; 
 
 
-// function call to initialize program
+// function call to start the program
 questions()
 // getting user answers 
 .then(answers => {
