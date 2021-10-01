@@ -3,7 +3,9 @@
   [!Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
   
   ## Description 
-  creates a readme with ease
+  This project uses javascript, node.js, and inquirer to efficiently generate a professional grade readme.
+
+  [!Link to Demo](https://drive.google.com/file/d/1cpqH26eTFVUUy79PV7ieTkZsBCKlRQRY/view?usp=sharing)
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
@@ -13,9 +15,9 @@
   * [Questions](#questions)
   
   ## Installation 
-  npm install inquirer
+  This needs both node.js and inquirer. First, open the terminal and type npm init, hit enter, and then type npm install inquirer. This should create the json, node modules, and install inquirer. 
   ## Usage 
-  this app creates readme quickly and efficiently
+  This app creates professional-grade readmes efficiently
   ## License 
   This project is license under MIT
   ## Contributing 
@@ -23,4 +25,4 @@
   ## Tests
   npm test
   ## Questions
-  If you have any questions about this projects, please contact me directly at kiyona@gmail.com. You can view more of my projects at https://github.com/Kbentley8.
+  If you have any questions about this projects, please contact me directly at aubentley80@gmail.com. You can view more of my projects at https://github.com/Kbentley8.
