@@ -25,4 +25,4 @@
   ## Tests
   npm test
   ## Questions
-  If you have any questions about this projects, please contact me directly at aubentley80@gmail.com. You can view more of my projects at https://github.com/Kbentley8.
+  If you have any questions about this project, you may contact me directly at aubentley80@gmail.com. You can also take a look at more of my projects at https://github.com/Kbentley8.
