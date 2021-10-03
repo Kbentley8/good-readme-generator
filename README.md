@@ -1,7 +1,8 @@
 # Readme generator
   
-  ![Github license](https://img.shields.io/badge/license-MIT-darkred)
+  ![Github MIT license](https://img.shields.io/badge/license-MIT-darkred)
   
+   ![Javascript badge](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)
   ## Description 
   This project uses javascript, node.js, and inquirer to efficiently generate a professional grade readme.
 
