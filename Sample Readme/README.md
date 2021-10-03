@@ -1,6 +1,8 @@
 # Sample Readme
 <!-- Example Project -->
-  ![Github license](http://img.shields.io/badge/license-MIT-blue.svg)
+  ![Github MIT license](https://img.shields.io/badge/license-MIT-darkred)
+  
+   ![Javascript badge](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)
   
   ## Description 
   this is a test project
